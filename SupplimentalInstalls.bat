@@ -1,1 +1,25 @@
-
+winget install Atlauncher.Atlauncher
+winget install Audacity.Audacity
+winget install Blenderfoundation.Blender
+winget install CPUID.HWMonitor
+winget install CrystalDevWorld.CrystalDiskMark
+winget install Discord.Discord
+winget install Mozilla.Firefox
+winget install Notepad++.Notepad++
+winget install RProject.R
+winget install TeXstudio.TeXstudio
+winget install RProject.Rtools
+winget install Parsec.Parsec
+::winget install GOG.Galaxy
+::winget install ChristianSchenk.MiKTeX
+::winget install Ultimaker.Cura
+::winget install DolphinEmu.DolphinEmu
+::winget install ElectronicArts.EADesktop
+::winget install EpicGames.EpicGamesLauncher
+::winget install PlayStation.PSNow
+::winget install Spotify.Spotify
+::winget install Microsoft.ROpen
+::winget install Mojang.MinecraftLauncher
+::winget install Mozilla.Thunderbird
+::winget install Github.atom
+::winget install Github.Desktop
