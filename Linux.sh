@@ -1,10 +1,7 @@
 #wget -O - https://raw.githubusercontent.com/WizBiz02/NewOSInstaller/main/Linux.sh | bash
 
-#Getting the important things installed ASAP
-sudo apt install inkscape krita gummi anki sagemath gparted vlc obs-studio gnome-tweaks -y
-
-#Getting the fun things installed 
-sudo apt install steam atlauncher discord -y
+sudo apt install inkscape krita gummi anki gparted vlc obs-studio lutris gnome-tweaks gnome-shell-extension-gsconnect gnome-boxes sagemath -y
+sudo apt install steam discord -y
 
 #Chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
