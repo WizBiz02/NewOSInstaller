@@ -22,11 +22,11 @@ winget install WinDirStat.WinDirStat
 ::winget install Audacity.Audacity
 ::winget install Blenderfoundation.Blender
 winget install Inkscape.Inkscape
-winget install OBSProject.OSBStudio
+winget install OBSProject.OBSStudio
 ::winget install KDE.Krita
 
 ::Games
-::winget install Valve.Steam
+winget install Valve.Steam
 ::winget install Atlauncher.Atlauncher
 ::winget install GOG.Galaxy
 ::winget install Parsec.Parsec
@@ -37,10 +37,10 @@ winget install OBSProject.OSBStudio
 ::winget install PlayStation.PSNow
 
 ::Coding
+winget install Notepad++.Notepad++
 ::winget install SageMath.SageMath
 ::winget install Lexikos.AutoHotkey
 ::winget install Oracle.JavaRuntimeEnvironment
-::winget install Notepad++.Notepad++
 ::winget install RProject.R
 ::winget install TeXstudio.TeXstudio
 ::winget install RProject.Rtools
