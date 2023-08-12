@@ -37,6 +37,7 @@ winget install OBSProject.OSBStudio
 ::winget install PlayStation.PSNow
 
 ::Coding
+::winget install SageMath.SageMath
 ::winget install Lexikos.AutoHotkey
 ::winget install Oracle.JavaRuntimeEnvironment
 ::winget install Notepad++.Notepad++
