@@ -23,7 +23,7 @@ winget install CrystalDevWorld.CrystalDiskMark
 ::winget install Blenderfoundation.Blender
 winget install Inkscape.Inkscape
 winget install OBSProject.OSBStudio
-winget install KDE.Krita
+::winget install KDE.Krita
 
 ::Games
 ::winget install Valve.Steam
