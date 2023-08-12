@@ -16,7 +16,7 @@ winget install Obsidian.Obsidian
 ::SystemTools
 winget install CPUID.HWMonitor
 winget install WinDirStat.WinDirStat
-winget install CrystalDevWorld.CrystalDiskMark
+::winget install CrystalDevWorld.CrystalDiskMark
 
 ::Creation Tools
 ::winget install Audacity.Audacity
